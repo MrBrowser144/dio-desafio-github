@@ -1,0 +1,25 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com = Usado para configurar o Úsuario e o email
+
+git help {comando}
+git {comando} --help
+man git- {comando} = Ajuda para entender os comandos
+
+git init = criando um diretório para o git
+
+git clone git://github.com/schacon/grit.git = clonando repositório do git hub (repositarios criando ja vem com diretório)
+
+git add =  adicionado arquivo ao Local
+
+git status = verifica status do arquivo
+
+git commit -m "*" =  commita os arquivos
+
+git push origin main =  enviando arquivos commitados de repositórios clonados
+
+git rm =  remove arquivos
+
+git mv arquivo_origem arquivo_destino = move arquivos
+
+git pull origin develop = atualiza repositorio conforme oque esta na nuvem
+
